@@ -8,7 +8,7 @@ To guide my learning journey, I will be using the following resources:
 
 - **Books by AppCoda**: AppCoda offers comprehensive guides and tutorials on iOS development, perfect for both beginners and intermediate learners.
   
-- **Stanford CS193p**: This is the well-known iOS Development course offered by Stanford University. It provides a deep dive into iOS app development using Swift.
+- **[Stanford CS193p - Spring 2023](https://cs193p.sites.stanford.edu/2023)**: This is the well-known iOS Development course offered by Stanford University. It provides a deep dive into iOS app development using Swift.
 
 ## Project Structure
 
