@@ -2,6 +2,9 @@
 
 ## Chapter 3: Build Your First App in Swift and SwiftUI
 
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/836a64b3-2c0e-4ee9-a71d-94ed5ecf27cc">
+
+
 ### Overview
 
 In this chapter, you will begin your journey into iOS app development by building your first app using Swift and SwiftUI. This chapter introduces the fundamental concepts of the SwiftUI framework and provides hands-on experience in creating a simple yet functional app.
