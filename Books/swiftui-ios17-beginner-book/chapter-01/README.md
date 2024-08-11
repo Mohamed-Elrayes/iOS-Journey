@@ -2,6 +2,8 @@
 
 ## Chapter 1: The Development Tools, the Learning Approach, and the App Idea
 
+<img width="1282" alt="image" src="https://github.com/user-attachments/assets/d6192c07-c227-4fa9-84d5-e18c3cb3419f">
+
 ### Summary
 This chapter introduces the essential tools and mindset needed to begin iOS app development. It covers the hardware and software requirements, the importance of hands-on learning, and how to stay motivated throughout the learning journey. The chapter also encourages readers to come up with their own app ideas to stay engaged and focused.
 
