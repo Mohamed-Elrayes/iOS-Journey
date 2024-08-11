@@ -22,3 +22,5 @@ This repository contains examples and exercises from Chapter 4 of the iOS Develo
 ## Exercise
 
 Try to build a UI like the one shown in figure 4-28. You can download the required images from http://www.appcoda.com/resources/swift4/student- tutor.zip
+
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/94e36354-735e-4237-9286-3e015d12c265">
