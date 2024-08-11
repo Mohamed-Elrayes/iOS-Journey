@@ -1,4 +1,8 @@
-# Chapter 2: Swift Basics and Optionals
+# Beginning iOS Programming with Swift and SwiftUI
+
+## Chapter 2: Swift Basics and Optionals
+
+<img width="1282" alt="image" src="https://github.com/user-attachments/assets/504454c6-a919-4cd4-8bfb-1ea3b8d96b55">
 
 ## Basic Concepts
 
