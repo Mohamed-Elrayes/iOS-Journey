@@ -1,4 +1,6 @@
-# iOS Development: Chapter 4 - Designing UI with Stack Views
+# Beginning iOS Programming with Swift and SwiftUI
+
+## iOS Development: Chapter 4 - Designing UI with Stack Views
 
 <img width="1289" alt="image" src="https://github.com/user-attachments/assets/6e812c0d-4e9c-424c-ae75-7677d4e8d1c5">
 
