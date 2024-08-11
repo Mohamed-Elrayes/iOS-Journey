@@ -2,6 +2,8 @@
 
 ## Chapter 5: Introduction to Prototyping
 
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/db217d68-e4e0-4065-84be-b5287dfb6275">
+
 ### Summary
 Prototyping is a crucial step in the app development process. It allows developers and designers to create early models of an app to visualize concepts, test ideas, and gather feedback before building the final product. This chapter covers the importance of prototyping, different methods of creating prototypes, and introduces popular tools that can be used for wireframing and prototyping mobile apps.
 
