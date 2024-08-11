@@ -1,4 +1,6 @@
-# Chapter 3: Build Your First App in Swift and SwiftUI
+# Beginning iOS Programming with Swift and SwiftUI
+
+## Chapter 3: Build Your First App in Swift and SwiftUI
 
 <img width="775" alt="image" src="https://github.com/user-attachments/assets/836a64b3-2c0e-4ee9-a71d-94ed5ecf27cc">
 
