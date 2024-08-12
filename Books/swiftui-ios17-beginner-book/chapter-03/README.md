@@ -4,12 +4,11 @@
 
 <img width="775" alt="image" src="https://github.com/user-attachments/assets/836a64b3-2c0e-4ee9-a71d-94ed5ecf27cc">
 
-
-### Overview
+## Summary
 
 In this chapter, you will begin your journey into iOS app development by building your first app using Swift and SwiftUI. This chapter introduces the fundamental concepts of the SwiftUI framework and provides hands-on experience in creating a simple yet functional app.
 
-### Key Concepts
+## Key Highlights
 
 - **SwiftUI Framework:** Understand the basics of SwiftUI, Apple's modern framework for building user interfaces across all platforms using declarative programming.
 - **Declarative Programming:** Learn how SwiftUI allows you to describe your UI in code, making it more intuitive and less error-prone compared to imperative programming.

@@ -19,8 +19,6 @@
 
 - Swift infers the type of a variable from its initial value, though explicit type declaration is also possible.
 
-## Part 2: Control Flow
-
 ### Conditional Statements
 
 - **`if` Statement**

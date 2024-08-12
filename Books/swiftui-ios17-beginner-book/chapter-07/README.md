@@ -4,7 +4,9 @@
 
 <img width="1308" alt="image" src="https://github.com/user-attachments/assets/f4d5d632-2152-4934-bd3f-8be1150df9c8">
 
-In Chapter 7, we began building the **FoodPin** app by customizing a basic list view to create a more stylish and functional interface for displaying a list of restaurants. Below are the key highlights:
+## Summary
+
+This chapter emphasizes the importance of mastering the `List` view, a foundational element in many iOS apps. By customizing the list and experimenting with SwiftUI's layout tools, you gain the skills needed to build more sophisticated and visually appealing interfaces.
 
 ### Key Highlights
 
@@ -37,10 +39,6 @@ In Chapter 7, we began building the **FoodPin** app by customizing a basic list 
    - Updated the list view to show specific restaurant types and locations.
    - Redesigned the row layout for an enhanced visual presentation.
 
-### Summary
-
-This chapter emphasizes the importance of mastering the `List` view, a foundational element in many iOS apps. By customizing the list and experimenting with SwiftUI's layout tools, you gain the skills needed to build more sophisticated and visually appealing interfaces.
-
 ## Exercise #1
 
 the app displays "Location" and "Type" for all rows. As an exercise, I will leave it up to you to resolve this issue. You can edit the source code to update the location and type labels. Below are the two arrays you need for this task
@@ -50,4 +48,3 @@ the app displays "Location" and "Type" for all rows. As an exercise, I will leav
 The previous exercise may be too easy for you. Here is another challenge. Try to redesign the row layout and see if you can create an app like this.
 
 <img width="1389" alt="image" src="https://github.com/user-attachments/assets/0d78bf5a-8592-4dd3-9028-30db2d65ea08">
-
