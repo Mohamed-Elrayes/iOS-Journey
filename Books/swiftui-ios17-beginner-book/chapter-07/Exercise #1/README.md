@@ -4,4 +4,5 @@ Currently, the app displays "Location" and "Type" for all rows. As an exercise, 
 
 ## Result
 
-![Uploading image.png…]()
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/a1224bf1-688b-4a93-89e3-07c5938ecad9">
+
