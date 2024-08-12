@@ -2,6 +2,8 @@
 
 ## Chapter 7: Customizing List Views
 
+<img width="1308" alt="image" src="https://github.com/user-attachments/assets/f4d5d632-2152-4934-bd3f-8be1150df9c8">
+
 In Chapter 7, we began building the **FoodPin** app by customizing a basic list view to create a more stylish and functional interface for displaying a list of restaurants. Below are the key highlights:
 
 ### Key Highlights
