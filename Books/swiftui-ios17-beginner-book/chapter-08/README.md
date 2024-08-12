@@ -2,6 +2,8 @@
 
 ## Chapter 8: Enhancing User Interactions with Alerts and Favorites
 
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/2874da15-b6b5-457e-83c9-3fcd01ea8b3e">
+
 ## Summary
 Chapter 8 explores improving user interactions in a SwiftUI app through alerts and favorites functionality. It explains how to use the `.alert` modifier for notifications about unavailable features and how to manage a list of favorites with state management. Additionally, it covers previewing different row layouts.
 
