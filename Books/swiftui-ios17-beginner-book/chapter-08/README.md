@@ -26,5 +26,9 @@ Chapter 8 explores improving user interactions in a SwiftUI app through alerts a
 ## Exercise #1
 Update the `FullImageRow` layout to support the "Mark as Favorite" feature. Ensure consistent functionality with `BasicTextImageRow`.
 
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/43952d3f-efce-404d-8efd-72b88a92c144">
+
 ## Exercise #2
 Implement the ability to toggle the heart icon for favorite items. Modify the button title based on whether the item is a favorite or not.
+
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/5ab26976-8b63-4b99-ab6e-0f8dc07bcc0a">
