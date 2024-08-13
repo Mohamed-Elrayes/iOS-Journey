@@ -119,3 +119,6 @@ Introduction to the course. The basics of SwiftUI. Start working on the first ap
 ## Due
 
 - Complete the reading before Lecture 4.
+
+
+<img width="723" alt="image" src="https://github.com/user-attachments/assets/4a3d4e83-2fe4-4b81-9a10-b95ca23da2d3">
