@@ -29,7 +29,6 @@ I'll be organizing this repository into the following sections:
 ## Overview
 
 ### Books/swiftui-ios17-beginner-book
- - [Exercise #1](./Books/swiftui-ios17-beginner-book/chapter-04/Exercise%20#1/README.md) 
 
 - [chapter-01](./Books/swiftui-ios17-beginner-book/chapter-01/README.md)
 - [chapter-02](./Books/swiftui-ios17-beginner-book/chapter-02/README.md)
