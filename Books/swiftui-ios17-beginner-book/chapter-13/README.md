@@ -2,6 +2,8 @@
 
 ## Chapter 13: Understanding Colors, Swift Extensions, and Dynamic Type
 
+<img width="1043" alt="image" src="https://github.com/user-attachments/assets/3c8b8707-3049-420c-9b8c-cdf1fe5852c9">
+
 > **Fun is one of the most important and underrated ingredients in any successful venture. If you're not having fun, then it's probably time to call it quits and try something else.**
 >
 > - Richard Branson
