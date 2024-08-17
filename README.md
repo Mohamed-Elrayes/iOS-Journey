@@ -67,6 +67,12 @@ I'll be organizing this repository into the following sections:
 - [chapter-28](./Books/swiftui-ios17-beginner-book/chapter-28/README.md)
 - [chapter-29](./Books/swiftui-ios17-beginner-book/chapter-29/README.md)
 
+---
+### Stanford CS193p
+- [lecture-01](./Stanford%20CS193p/lecture-01.README.md)
+- [lecture-02](./Stanford%20CS193p/lecture-02.README.md)
+  - [Assignment](./Stanford%20CS193p/lecture-02/Assignment.README.md)
+
 
 
 ## How to Use This Repository
