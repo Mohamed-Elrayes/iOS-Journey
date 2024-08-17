@@ -7,6 +7,10 @@ Welcome to my iOS Learning Hub! This repository is where I'll be documenting eve
 To guide my learning journey, I will be using the following resources:
 
 - **Books by AppCoda**: AppCoda offers comprehensive guides and tutorials on iOS development, perfect for both beginners and intermediate learners.
+  1. **Beginning iOS Programming with Swift and SwiftUI**: <a href="https://www.appcoda.com/learnswift/">Book</a>  <- current Progress Here
+  1. **Intermediate iOS Programming with Swift**: <a href="https://www.appcoda.com/intermediate-swift-programming-book/">Book</a>
+  1. **Mastering SwiftUI**: <a href="https://www.appcoda.com/swiftui/">Book</a>
+  
   
 - **[Stanford CS193p - Spring 2023](https://cs193p.sites.stanford.edu/2023)**: This is the well-known iOS Development course offered by Stanford University. It provides a deep dive into iOS app development using Swift.
 
