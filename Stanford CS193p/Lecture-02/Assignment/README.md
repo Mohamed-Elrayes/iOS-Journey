@@ -29,3 +29,13 @@
 10. Avoid choosing function parameter names that are exactly the same as the name of a variable in your `View`.
 11. The size of an SF Symbol Image is affected by `.font()` and `.imageScale()` modifiers.
 12. Align the baselines of the Text part of your theme-chooser buttons.
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/e2773ff4-6942-4d3d-8536-badb9818e4f8">
+
+## Result
+
+<img src="https://github.com/user-attachments/assets/a371a551-ab73-48e0-b5d1-4769f1e6896e" alt="Screen Recording" width="200"/>
+
+
+
+
