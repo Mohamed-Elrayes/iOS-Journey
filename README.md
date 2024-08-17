@@ -69,9 +69,9 @@ I'll be organizing this repository into the following sections:
 
 ---
 ### Stanford CS193p
-- [lecture-01](./Stanford%20CS193p/lecture-01.README.md)
-- [lecture-02](./Stanford%20CS193p/lecture-02.README.md)
-  - [Assignment](./Stanford%20CS193p/lecture-02/Assignment.README.md)
+- [lecture-01](./Stanford%20CS193p/lecture-01)
+- [lecture-02](./Stanford%20CS193p/lecture-02)
+  - [Assignment](./Stanford%20CS193p/lecture-02/Assignment)
 
 
 
