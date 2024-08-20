@@ -1,0 +1,7 @@
+# Stanford | CS193p - Developing Apps for iOS
+
+## Lecture 4: Applying MVVM
+
+## Summary
+
+Apply the MVVM architecture to the Memorize application. Along the way, gain familiarity with Generics and an understanding of type (static) variables and functions.
